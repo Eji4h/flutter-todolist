@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "943746636244",
+    "firebase_url": "https://totality-todo-61b64.firebaseio.com",
+    "project_id": "totality-todo-61b64",
+    "storage_bucket": "totality-todo-61b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943746636244:android:87b2c983d0e5e7dd",
+        "android_client_info": {
+          "package_name": "com.jitrak.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943746636244-5hof0thgshm2vuo4047l96f8u84nues8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjOrq97OD2vpOukfJkiWnGOA63dhhBOb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
